@@ -1,3 +1,4 @@
 20230207	18:10:15	a416ea19-7b64-4adc-ae4b-3dde7f48a3e8	TypeError: fsPromises.readFil is not a function
 20230207	20:48:15	b7b71b37-c2ad-4d4d-b7ba-c3de0b58cbf2	Error: Not allowed by CORS
 20230207	20:48:26	ecc64184-08e8-4b2b-8dd1-cba44d798eb0	Error: Not allowed by CORS
+20230207	22:08:04	6b13ac83-b0e2-4448-aca2-d3670fbb3817	SyntaxError: Unexpected token f in JSON at position 10
